@@ -1,1 +1,139 @@
-{"type":"footer","name":"Footer group","sections":{"text-with-icons":{"type":"text-with-icons","blocks":{"icon-1":{"type":"item","settings":{"icon":"picto-delivery-truck","icon_width":36,"mobile_icon_width":36,"title":"<strong>free shipping<\/strong>","content":"<p>Shop now and enjoy free shipping with no minimum purchase. Don't miss this limited-time offer! <\/p>"}},"icon-2":{"type":"item","settings":{"icon":"picto-success","icon_width":36,"mobile_icon_width":36,"title":"<strong>customer service<\/strong>","content":"<p>Our customer service team is here to help with any questions about products, delivery, or returns, ensuring a smooth and hassle-free shopping experience.<\/p>"}},"icon-3":{"type":"item","settings":{"icon":"picto-credit-card","icon_width":36,"mobile_icon_width":36,"title":"<strong>30-day money-back guarantee<\/strong>","content":"<p>Benefit from our 30-day money-back guarantee and a 14-day return policy for a easy shopping experience.<\/p>"}}},"block_order":["icon-1","icon-2","icon-3"],"disabled":true,"settings":{"separate_section_with_border":false,"stack_on_mobile":false,"icon_color":"","text_color":"","text_alignment":"center"}},"f60668bb-cfad-40d9-8acd-aa5f22117ff5":{"type":"countdown","disabled":true,"settings":{"separate_section_with_border":true,"image_size":"auto","subheading":"Subheading","title":"Special offer","content":"<p>Share something about your limited offer or temporary promotion.<\/p>","button_link":"","button_text":"","expiration_date":"","expiration_behavior":"leave","timer_position":"end","animate_number":true,"background":"","text_color":"","button_background":"","button_text_color":"","flip_background":"","flip_background_opacity":50,"flip_text_color":"","overlay_color":"#000000","overlay_opacity":30}},"footer":{"type":"footer","blocks":{"text":{"type":"text","settings":{"title":"Služba za korisnike","content":"<p>Imate li pitanje? Molimo kontaktirajte <a>info@mariczagreb.com<\/a><\/p><p><br\/>Radno vrijeme: Radni dani: 09:00 – 17:00 Vikendi: 11:00 – 15:00<\/p>","enable_follow_on_shop":false}},"text_tUfbQy":{"type":"text","settings":{"title":"Maric Zagreb","content":"<p>Godine 2018., suočeni s pariškom užurbanošću, s nostalgijom smo primijetili nestanak nekadašnje elegancije te smo stvorili 'Maric Zagreb' kako bismo oživjeli tu bezvremensku ljepotu.<\/p>","enable_follow_on_shop":false}},"links":{"type":"links","settings":{"menu":"espace-dinformation","show_menu_title":true}}},"block_order":["text","text_tUfbQy","links"],"custom_css":[".h6 {font-weight: bold;}"],"settings":{"separate_section_with_border":true,"show_social_media":false,"show_payment_icons":true,"show_country_selector":true,"show_country_name":true,"show_country_flag":true,"show_locale_selector":true}}},"order":["text-with-icons","f60668bb-cfad-40d9-8acd-aa5f22117ff5","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "icon_width": 36,
+            "mobile_icon_width": 36,
+            "title": "<strong>free shipping</strong>",
+            "content": "<p>Shop now and enjoy free shipping with no minimum purchase. Don't miss this limited-time offer! </p>"
+          }
+        },
+        "icon-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-success",
+            "icon_width": 36,
+            "mobile_icon_width": 36,
+            "title": "<strong>customer service</strong>",
+            "content": "<p>Our customer service team is here to help with any questions about products, delivery, or returns, ensuring a smooth and hassle-free shopping experience.</p>"
+          }
+        },
+        "icon-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "icon_width": 36,
+            "mobile_icon_width": 36,
+            "title": "<strong>30-day money-back guarantee</strong>",
+            "content": "<p>Benefit from our 30-day money-back guarantee and a 14-day return policy for a easy shopping experience.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "separate_section_with_border": false,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "f60668bb-cfad-40d9-8acd-aa5f22117ff5": {
+      "type": "countdown",
+      "disabled": true,
+      "settings": {
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Subheading",
+        "title": "Special offer",
+        "content": "<p>Share something about your limited offer or temporary promotion.</p>",
+        "button_link": "",
+        "button_text": "",
+        "expiration_date": "",
+        "expiration_behavior": "leave",
+        "timer_position": "end",
+        "animate_number": true,
+        "background": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": "",
+        "flip_background": "",
+        "flip_background_opacity": 50,
+        "flip_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Služba za korisnike",
+            "content": "<p>Imate li pitanje? Molimo kontaktirajte <a>info@mariczagreb.com</a></p><p><br/>Radno vrijeme: Radni dani: 09:00 – 17:00 Vikendi: 11:00 – 15:00</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_tUfbQy": {
+          "type": "text",
+          "settings": {
+            "title": "Maric Zagreb",
+            "content": "<p>Godine 2018., suočeni s pariškom užurbanošću, s nostalgijom smo primijetili nestanak nekadašnje elegancije te smo stvorili 'Maric Zagreb' kako bismo oživjeli tu bezvremensku ljepotu.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "text_tUfbQy",
+        "links"
+      ],
+      "custom_css": [
+        ".h6 {font-weight: bold;}"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "show_social_media": false,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "f60668bb-cfad-40d9-8acd-aa5f22117ff5",
+    "footer"
+  ]
+}
