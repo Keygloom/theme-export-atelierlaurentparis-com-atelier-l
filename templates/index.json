@@ -1,1 +1,731 @@
-{"sections":{"ef6426a4-9272-40aa-a31d-bcfce357685f":{"type":"scrolling-content","blocks":{"template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-0":{"type":"text","disabled":true,"settings":{"text":"Summer sale | 50% off on all products"}},"template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-1":{"type":"text","disabled":true,"settings":{"text":"Tu perfume habla por ti"}},"d061755a-d9ea-4024-83b7-374ae994b416":{"type":"image","disabled":true,"settings":{}}},"block_order":["template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-0","template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-1","d061755a-d9ea-4024-83b7-374ae994b416"],"settings":{"separate_section_with_border":true,"scrolling_speed":0.2,"scroll_direction":"left","text_font":"heading","text_font_size_mobile":12,"text_font_size_desktop":12,"section_vertical_spacing_mobile":10,"section_vertical_spacing_desktop":10,"item_horizontal_spacing_mobile":80,"item_horizontal_spacing_desktop":120,"background":"","text_color":""}},"slideshow":{"type":"slideshow","blocks":{"4126154d-50ae-499a-8394-dcd3ca276ea1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Cover_foto.jpg","mobile_image":"shopify:\/\/shop_images\/Cover_foto.jpg","subheading":"<strong>Pozuri!<\/strong>","title":"<strong>80% Zimbabwe production!<\/strong>","mobile_text_position":"place-self-end-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","content_max_width":1200,"button_1_text":"","button_1_link":"shopify:\/\/collections\/vestes-blousons","button_1_style":"solid","button_1_background":"#ffffff","button_1_text_color":"#000000","button_2_text":"","button_2_link":"","button_2_style":"outline","button_2_background":"#ffffff","button_2_text_color":"#000000","background":"#ffffff","background_opacity":0,"text_color":"#ffffff","border_color":"","gradient_overlay":""}}},"block_order":["4126154d-50ae-499a-8394-dcd3ca276ea1"],"settings":{"allow_transparent_header":false,"show_next_section_button":false,"media_size":"auto","autoplay":true,"autoplay_pause_on_video":true,"cycle_speed":5,"background":"#000000","controls_color":"#000000"}},"rich_text_QBDrJ7":{"type":"rich-text","blocks":{"subheading_zePUNM":{"type":"subheading","disabled":true,"settings":{"text":"Subheading"}},"heading_UfRzn4":{"type":"heading","settings":{"text":"S'HABILLER AVEC CLASSE - POUR MOINS CHER","heading_tag":"h5"}},"richtext_Ktefix":{"type":"richtext","settings":{"content":"<p>Nous croyons que chacun, homme ou femme, mérite de s'habiller élégamment sans se ruiner. Nous vous invitons à améliorer votre style quotidien avec des vêtements qui incarnent le charme intemporel de la mode.<\/p>"}}},"block_order":["subheading_zePUNM","heading_UfRzn4","richtext_Ktefix"],"disabled":true,"settings":{"separate_section_with_border":true,"content_width":"sm","text_position":"center","remove_vertical_spacing":false}},"collection_list_Fmg4e9":{"type":"collection-list","blocks":{"collection_78BKyK":{"type":"collection","settings":{"collection":"femme","image":"shopify:\/\/shop_images\/1.png","expand_collection":false,"content_position":"place-self-end-center text-center","subheading":"","title":"","button_text":"Žena","button_link":"shopify:\/\/collections\/femme","text_color":"#000000","overlay_color":"#000000","overlay_opacity":44,"button_background":"#ffffff","button_text_color":"#000000"}},"collection_nyLWEm":{"type":"collection","settings":{"collection":"homme","image":"shopify:\/\/shop_images\/287A6239_1.jpg","expand_collection":false,"content_position":"place-self-end-center text-center","subheading":"","title":"","button_text":"Muškarac","button_link":"shopify:\/\/collections\/homme","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30,"button_background":"#ffffff","button_text_color":"#000000"}}},"block_order":["collection_78BKyK","collection_nyLWEm"],"settings":{"separate_section_with_border":true,"image_size":"md","show_text_outside":false,"space_items":true,"stack_collections":false,"collections_per_row_desktop":3,"subheading":"","title":"","content":"","circle_button_background":"#ffffff","circle_button_text_color":"#1c1c1c"}},"574a6061-7371-48cf-b25b-1b63bd85cb70":{"type":"featured-collections","settings":{"separate_section_with_border":false,"hide_product_information":false,"stack_products":true,"products_per_row_mobile":"2","products_per_row_desktop":6,"horizontal_spacing_factor":1,"vertical_spacing_factor":1,"subheading":""}},"ss_featured_collection_B9bw7R":{"type":"ss-featured-collection","settings":{"items_mt":40,"collection":"pulls-et-cardigans","product_list":[],"stack_products":false,"show_bar":true,"top_bar":false,"product_show":20,"product_per_desktop":4,"product_per_mobile":"1.3","image_radius":0,"image_ration":"square","use_custom_height":false,"image_height_desktop":400,"image_height_mobile":300,"show_second":false,"use_shadow":false,"use_radius":false,"card_padding_horizontal":0,"card_padding_vertical":12,"card_title_custom":true,"card_title_font":"assistant_n4","card_title_size":16,"card_title_letter":0.2,"card_title_height":110,"heading":"Najbolji pleteni odjevni komadi","heading_custom":false,"heading_font":"assistant_n4","heading_size":20,"heading_letter":0,"heading_height":100,"heading_align":"left","sub_heading":"","sub_heading_custom":false,"sub_heading_font":"assistant_n4","sub_heading_size":0,"sub_heading_letter":0,"sub_heading_height":50,"sub_heading_align":"center","invert_content":false,"link":"","link_url":"","link_custom":false,"link_font":"assistant_n4","link_size":0,"link_letter":0,"link_height":50,"link_position":false,"link_mobile":false,"card_price_from":"From","card_price_custom":false,"card_price_font":"assistant_n4","card_price_size":16,"card_price_letter":0,"card_price_height":100,"card_price_mt":12,"arrow_size":20,"arrow_size_mobile":20,"arrow_hide_mobile":true,"link_color":"#000000","link_hover_color":"#000000","link_arrow_color":"#000000","link_background_color":"#e6e6e6","link_background_hover_color":"#000000","card_content_bg_color":"#ffffff","card_title_color":"#000000","card_price_color":"#000000","arrow_color":"#000000","arrow_hover_color":"#000000","arrow_bg_color":"#f2f2f2","arrow_bg_hover_color":"#f2f2f2","arrow_border_color":"#c4c4c4","arrow_border_hover_color":"#c4c4c4","progress_color":"#000000","heading_color":"#000000","sub_heading_color":"#000000","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":48,"margin_bottom":0,"padding_top":0,"padding_bottom":20,"padding_horizontal":5,"padding_horizontal_mobile":1.5,"full_width":true,"content_width":130,"border_thickness":0}},"168769821157a82f82":{"type":"apps","settings":{"separate_section_with_border":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false}},"rich_text_C4ReEG":{"type":"rich-text","settings":{"separate_section_with_border":true,"content_width":"lg","text_position":"center","remove_vertical_spacing":false}},"featured_collections_YbT3Ez":{"type":"featured-collections","blocks":{"collection_zYWiqb":{"type":"collection","settings":{"collection":"femme","products_count":4,"title":"MEILLEURES VENTES FEMMES","link_url":"shopify:\/\/collections\/jewellery","link_text":""}}},"block_order":["collection_zYWiqb"],"disabled":true,"settings":{"separate_section_with_border":true,"hide_product_information":false,"stack_products":false,"products_per_row_mobile":"2","products_per_row_desktop":6,"horizontal_spacing_factor":0.2,"vertical_spacing_factor":0.2,"subheading":""}},"testimonials_LyG8tn":{"type":"testimonials","blocks":{"testimonial_qkAmCH":{"type":"testimonial","settings":{"content":"<p>\"Atelier Dubois offre des pièces uniques et de qualité. La robe que j'ai achetée est encore plus belle en vrai. Je recommande vivement!\"<\/p>","logo_max_width":140,"logo_mobile_max_width":100,"author":"— <strong>Marie K.<\/strong>"}},"testimonial_TYUxhV":{"type":"testimonial","settings":{"content":"<p>\"Première expérience réussie avec Atelier Dubois. Service client réactif, livraison rapide, et vêtements superbes. J'y reviendrai!\"<\/p>","logo_max_width":140,"logo_mobile_max_width":100,"author":"— <strong>Claire A.<\/strong>"}},"testimonial_pdMhWd":{"type":"testimonial","settings":{"content":"<p>\"Atelier Dubois propose des vêtements raffinés et un site agréable pour faire ses achats. Chaque pièce est sublime!\"<\/p>","logo_max_width":140,"logo_mobile_max_width":100,"author":"— <strong>Sophie T.<\/strong>"}}},"block_order":["testimonial_qkAmCH","testimonial_TYUxhV","testimonial_pdMhWd"],"disabled":true,"settings":{"separate_section_with_border":false,"auto_rotate_between_testimonials":true,"cycle_speed":7,"font_size_factor":1,"subheading":"","title":"","content":"","background":"","text_color":""}},"ss_featured_collection_9TEVB9":{"type":"ss-featured-collection","disabled":true,"settings":{"items_mt":40,"collection":"homme","product_list":[],"stack_products":false,"show_bar":true,"top_bar":false,"product_show":20,"product_per_desktop":4,"product_per_mobile":"2","image_radius":0,"image_ration":"square","use_custom_height":false,"image_height_desktop":400,"image_height_mobile":300,"show_second":false,"use_shadow":false,"use_radius":false,"card_padding_horizontal":0,"card_padding_vertical":12,"card_title_custom":true,"card_title_font":"assistant_n4","card_title_size":16,"card_title_letter":0.2,"card_title_height":110,"heading":"MEILLEURES VENTES HOMMES","heading_custom":false,"heading_font":"assistant_n4","heading_size":20,"heading_letter":0,"heading_height":100,"heading_align":"left","sub_heading":"","sub_heading_custom":false,"sub_heading_font":"assistant_n4","sub_heading_size":0,"sub_heading_letter":0,"sub_heading_height":50,"sub_heading_align":"center","invert_content":false,"link":"","link_url":"","link_custom":false,"link_font":"assistant_n4","link_size":0,"link_letter":0,"link_height":50,"link_position":false,"link_mobile":false,"card_price_from":"From","card_price_custom":false,"card_price_font":"assistant_n4","card_price_size":16,"card_price_letter":0,"card_price_height":100,"card_price_mt":12,"arrow_size":20,"arrow_size_mobile":20,"arrow_hide_mobile":true,"link_color":"#000000","link_hover_color":"#000000","link_arrow_color":"#000000","link_background_color":"#e6e6e6","link_background_hover_color":"#000000","card_content_bg_color":"#ffffff","card_title_color":"#000000","card_price_color":"#000000","arrow_color":"#000000","arrow_hover_color":"#000000","arrow_bg_color":"#f2f2f2","arrow_bg_hover_color":"#f2f2f2","arrow_border_color":"#c4c4c4","arrow_border_hover_color":"#c4c4c4","progress_color":"#000000","heading_color":"#000000","sub_heading_color":"#000000","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":20,"padding_bottom":36,"padding_horizontal":5,"padding_horizontal_mobile":1.5,"full_width":true,"content_width":130,"border_thickness":0}},"featured_collections_WdXFUm":{"type":"featured-collections","blocks":{"collection_zAjNi9":{"type":"collection","settings":{"collection":"homme","products_count":4,"title":"MEILLEURES VENTES HOMMES","link_url":"shopify:\/\/collections\/jewellery","link_text":""}}},"block_order":["collection_zAjNi9"],"disabled":true,"settings":{"separate_section_with_border":false,"hide_product_information":false,"stack_products":false,"products_per_row_mobile":"2","products_per_row_desktop":6,"horizontal_spacing_factor":0.2,"vertical_spacing_factor":0.2,"subheading":""}},"image_with_text_ggQkGT":{"type":"image-with-text","blocks":{"heading_XdYj3b":{"type":"heading","settings":{"text":"Povijest Maric Zagreb","heading_tag":"h4"}},"richtext_9DramL":{"type":"richtext","settings":{"content":"<p>Godine 2018., u srcu zagrebačke vreve, sa žaljenjem smo primijetili da elegancija starog Zagreba polako nestaje. Odlučni da ponovno oživimo tu izgubljenu čaroliju, osnovali smo modni brend ‘Marić Zagreb’ – posvetu bezvremenskoj eleganciji.<\/p>"}}},"block_order":["heading_XdYj3b","richtext_9DramL"],"settings":{"separate_section_with_border":true,"image":"shopify:\/\/shop_images\/woman-shopping-for-clothes.jpg","mobile_image":"shopify:\/\/shop_images\/woman-shopping-for-clothes.jpg","reveal_on_scroll":true,"image_position":"start","content_width":"sm","remove_vertical_spacing":true}},"image_with_text_overlay_NzVeBF":{"type":"image-with-text-overlay","blocks":{"heading_VRTCeV":{"type":"heading","settings":{"text":"Povijest Atelier Dubois Paris","heading_tag":"h3"}},"richtext_kBNpVw":{"type":"richtext","settings":{"content":"<p>En 2018, au cœur de l'agitation parisienne, nous avons constaté avec regret que l'élégance de l'ancien Paris disparaissait peu à peu. Déterminés à redonner vie à cette splendeur perdue, nous avons fondé la marque de vêtements 'Atelier Dubois Paris', un hommage à l'élégance intemporelle.<\/p>"}}},"block_order":["heading_VRTCeV","richtext_kBNpVw"],"disabled":true,"settings":{"image_size":"auto","image":"shopify:\/\/shop_images\/Mockup_store.png","mobile_image":"shopify:\/\/shop_images\/Mockup_store.png","allow_transparent_header":false,"reveal_on_scroll":true,"remove_vertical_spacing":true,"content_width":"md","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"aus_tp_slider_G8JJyr":{"type":"aus-tp-slider","blocks":{"richtext_MppAFU":{"type":"richtext","settings":{"rating":"5","verified":"Vérifié","review_title":"Bonne qualité et bon service","review_content":"<p>La qualité est bonne et c'est exactement la même chose que sur la photo. J'avais une question sur la taille de l'ensemble d'été que j'ai commandé et avec une réponse dans une heure, ils m'ont aidé à choisir la bonne taille.<\/p>","review_time":"28-02-2024","customer_name":"Charles S."}},"richtext_BfWHJr":{"type":"richtext","settings":{"rating":"5","verified":"Vérifié","review_title":"Délai de livraison et produit","review_content":"<p>J'ai récemment commandé une robe chez Atelier Dubois. Le site web était facile à parcourir et la robe est arrivée dans les 8 jours. Elle correspondait parfaitement à la description et était à la bonne taille. Je suis très contente de mon achat et j'achèterai à nouveau ici !<\/p>","review_time":"03-04-2024","customer_name":"Juliette K."}},"richtext_Mxgi8m":{"type":"richtext","settings":{"rating":"5","verified":"Vérifié","review_title":"Veste achetée","review_content":"<p>La qualité est bonne et la veste s'adapte parfaitement. La livraison a été rapide, et la veste est exactement comme sur les photos. Je suis très satisfaite et j'achèterai à nouveau chez eux !<\/p>","review_time":"17-09-2024","customer_name":"Gabriel K."}},"richtext_t4UV6U":{"type":"richtext","settings":{"rating":"5","verified":"Vérifié","review_title":"Retour expérience","review_content":"<p>J'ai commandé un maillot de bain le 11 mai, mais malheureusement, il était trop petit, parce que je n'avais pas commandé la bonne taille, alors je l'ai renvoyé pour un échange. Dans les deux semaines qui ont suivi, j'ai reçu un maillot de bain de plus grande taille. Dans l'ensemble, bon service.<\/p>","review_time":"01-02-2024","customer_name":"Julien C."}},"richtext_Pr3kKr":{"type":"richtext","settings":{"rating":"5","verified":"Vérifié","review_title":"Bon produit","review_content":"<p>Bon produit, exactement ce que je voulais.<\/p>","review_time":"08-10-2023","customer_name":"Lucie P."}}},"block_order":["richtext_MppAFU","richtext_BfWHJr","richtext_Mxgi8m","richtext_t4UV6U","richtext_Pr3kKr"],"disabled":true,"settings":{"heading":"Excellent","content":"<p>Basé sur 2.137+ avis<\/p>"}},"text_with_icons_aRCmtB":{"type":"text-with-icons","blocks":{"item_a6bTc3":{"type":"item","settings":{"icon":"picto-box","icon_width":24,"mobile_icon_width":24,"title":"Besplatna dostava","content":"<p>Nudimo besplatnu dostavu širom svijeta.<\/p>"}},"item_JJhzVJ":{"type":"item","settings":{"icon":"picto-customer-support","icon_width":24,"mobile_icon_width":24,"title":"Usluga za korisnike","content":"<p>Nudimo korisničku podršku 24\/7. Uvijek nam možete postaviti pitanja, a naši će vam stručnjaci odgovoriti unutar 24 sata!<\/p>"}},"item_tQXgTN":{"type":"item","settings":{"icon":"picto-coupon","icon_width":24,"mobile_icon_width":24,"title":"Više od 2300 recenzija","content":"<p>Imamo više od 10 000 klijenata koji vjeruju Maric Zagreb, a preko 2300 ih je ostavilo recenziju, s prosječnom ocjenom 4,7\/5.<\/p>"}},"item_Wkcwn3":{"type":"item","settings":{"icon":"picto-lock","icon_width":24,"mobile_icon_width":24,"title":"Sigurno plaćanje","content":"<p>Svako plaćanje s Maric Zagreb je 100% sigurno i uz jamstvo sigurnosti.<\/p>"}}},"block_order":["item_a6bTc3","item_JJhzVJ","item_tQXgTN","item_Wkcwn3"],"settings":{"separate_section_with_border":true,"stack_on_mobile":false,"icon_color":"","text_color":"","text_alignment":"center"}}},"order":["ef6426a4-9272-40aa-a31d-bcfce357685f","slideshow","rich_text_QBDrJ7","collection_list_Fmg4e9","574a6061-7371-48cf-b25b-1b63bd85cb70","ss_featured_collection_B9bw7R","168769821157a82f82","rich_text_C4ReEG","featured_collections_YbT3Ez","testimonials_LyG8tn","ss_featured_collection_9TEVB9","featured_collections_WdXFUm","image_with_text_ggQkGT","image_with_text_overlay_NzVeBF","aus_tp_slider_G8JJyr","text_with_icons_aRCmtB"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ef6426a4-9272-40aa-a31d-bcfce357685f": {
+      "type": "scrolling-content",
+      "blocks": {
+        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Summer sale | 50% off on all products"
+          }
+        },
+        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Tu perfume habla por ti"
+          }
+        },
+        "d061755a-d9ea-4024-83b7-374ae994b416": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-0",
+        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-1",
+        "d061755a-d9ea-4024-83b7-374ae994b416"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.2,
+        "scroll_direction": "left",
+        "text_font": "heading",
+        "text_font_size_mobile": 12,
+        "text_font_size_desktop": 12,
+        "section_vertical_spacing_mobile": 10,
+        "section_vertical_spacing_desktop": 10,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "",
+        "text_color": ""
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "4126154d-50ae-499a-8394-dcd3ca276ea1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Cover_foto.jpg",
+            "mobile_image": "shopify://shop_images/Cover_foto.jpg",
+            "subheading": "<strong>Pozuri!</strong>",
+            "title": "<strong>80% Zimbabwe production!</strong>",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 1200,
+            "button_1_text": "",
+            "button_1_link": "shopify://collections/vestes-blousons",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "#ffffff",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        }
+      },
+      "block_order": [
+        "4126154d-50ae-499a-8394-dcd3ca276ea1"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#000000"
+      }
+    },
+    "rich_text_QBDrJ7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_zePUNM": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_UfRzn4": {
+          "type": "heading",
+          "settings": {
+            "text": "S'HABILLER AVEC CLASSE - POUR MOINS CHER",
+            "heading_tag": "h5"
+          }
+        },
+        "richtext_Ktefix": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nous croyons que chacun, homme ou femme, mérite de s'habiller élégamment sans se ruiner. Nous vous invitons à améliorer votre style quotidien avec des vêtements qui incarnent le charme intemporel de la mode.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zePUNM",
+        "heading_UfRzn4",
+        "richtext_Ktefix"
+      ],
+      "disabled": true,
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "collection_list_Fmg4e9": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_78BKyK": {
+          "type": "collection",
+          "settings": {
+            "collection": "women",
+            "image": "shopify://shop_images/5cab7a41-1a42-4f79-b328-7947b24791f9_ce1f4b6d-a672-4fd2-a83f-8656031e6a6f.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Žena",
+            "button_link": "shopify://collections/femme",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 44,
+            "button_background": "#ffffff",
+            "button_text_color": "#000000"
+          }
+        },
+        "collection_nyLWEm": {
+          "type": "collection",
+          "settings": {
+            "collection": "men",
+            "image": "shopify://shop_images/1_b411a770-ba85-4b14-893b-75cca17493e3.webp",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Muškarac",
+            "button_link": "shopify://collections/homme",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "#ffffff",
+            "button_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "collection_78BKyK",
+        "collection_nyLWEm"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image_size": "md",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "circle_button_background": "#ffffff",
+        "circle_button_text_color": "#1c1c1c"
+      }
+    },
+    "574a6061-7371-48cf-b25b-1b63bd85cb70": {
+      "type": "featured-collections",
+      "settings": {
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 6,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "ss_featured_collection_B9bw7R": {
+      "type": "ss-featured-collection",
+      "settings": {
+        "items_mt": 40,
+        "collection": "women",
+        "product_list": [],
+        "stack_products": false,
+        "show_bar": true,
+        "top_bar": false,
+        "product_show": 20,
+        "product_per_desktop": 4,
+        "product_per_mobile": "1.3",
+        "image_radius": 0,
+        "image_ration": "square",
+        "use_custom_height": false,
+        "image_height_desktop": 400,
+        "image_height_mobile": 300,
+        "show_second": false,
+        "use_shadow": false,
+        "use_radius": false,
+        "card_padding_horizontal": 0,
+        "card_padding_vertical": 12,
+        "card_title_custom": true,
+        "card_title_font": "assistant_n4",
+        "card_title_size": 16,
+        "card_title_letter": 0.2,
+        "card_title_height": 110,
+        "heading": "Najbolji pleteni odjevni komadi",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "heading_size": 20,
+        "heading_letter": 0,
+        "heading_height": 100,
+        "heading_align": "left",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "assistant_n4",
+        "sub_heading_size": 0,
+        "sub_heading_letter": 0,
+        "sub_heading_height": 50,
+        "sub_heading_align": "center",
+        "invert_content": false,
+        "link": "",
+        "link_url": "",
+        "link_custom": false,
+        "link_font": "assistant_n4",
+        "link_size": 0,
+        "link_letter": 0,
+        "link_height": 50,
+        "link_position": false,
+        "link_mobile": false,
+        "card_price_from": "From",
+        "card_price_custom": false,
+        "card_price_font": "assistant_n4",
+        "card_price_size": 16,
+        "card_price_letter": 0,
+        "card_price_height": 100,
+        "card_price_mt": 12,
+        "arrow_size": 20,
+        "arrow_size_mobile": 20,
+        "arrow_hide_mobile": true,
+        "link_color": "#000000",
+        "link_hover_color": "#000000",
+        "link_arrow_color": "#000000",
+        "link_background_color": "#e6e6e6",
+        "link_background_hover_color": "#000000",
+        "card_content_bg_color": "#ffffff",
+        "card_title_color": "#000000",
+        "card_price_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#f2f2f2",
+        "arrow_bg_hover_color": "#f2f2f2",
+        "arrow_border_color": "#c4c4c4",
+        "arrow_border_hover_color": "#c4c4c4",
+        "progress_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 48,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 130,
+        "border_thickness": 0
+      }
+    },
+    "168769821157a82f82": {
+      "type": "apps",
+      "settings": {
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "rich_text_C4ReEG": {
+      "type": "rich-text",
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured_collections_YbT3Ez": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_zYWiqb": {
+          "type": "collection",
+          "settings": {
+            "collection": "femme",
+            "products_count": 4,
+            "title": "MEILLEURES VENTES FEMMES",
+            "link_url": "shopify://collections/jewellery",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_zYWiqb"
+      ],
+      "disabled": true,
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 6,
+        "horizontal_spacing_factor": 0.2,
+        "vertical_spacing_factor": 0.2,
+        "subheading": ""
+      }
+    },
+    "testimonials_LyG8tn": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_qkAmCH": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>\"Atelier Dubois offre des pièces uniques et de qualité. La robe que j'ai achetée est encore plus belle en vrai. Je recommande vivement!\"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": "— <strong>Marie K.</strong>"
+          }
+        },
+        "testimonial_TYUxhV": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>\"Première expérience réussie avec Atelier Dubois. Service client réactif, livraison rapide, et vêtements superbes. J'y reviendrai!\"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": "— <strong>Claire A.</strong>"
+          }
+        },
+        "testimonial_pdMhWd": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>\"Atelier Dubois propose des vêtements raffinés et un site agréable pour faire ses achats. Chaque pièce est sublime!\"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": "— <strong>Sophie T.</strong>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_qkAmCH",
+        "testimonial_TYUxhV",
+        "testimonial_pdMhWd"
+      ],
+      "disabled": true,
+      "settings": {
+        "separate_section_with_border": false,
+        "auto_rotate_between_testimonials": true,
+        "cycle_speed": 7,
+        "font_size_factor": 1,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "text_color": ""
+      }
+    },
+    "ss_featured_collection_9TEVB9": {
+      "type": "ss-featured-collection",
+      "disabled": true,
+      "settings": {
+        "items_mt": 40,
+        "collection": "homme",
+        "product_list": [],
+        "stack_products": false,
+        "show_bar": true,
+        "top_bar": false,
+        "product_show": 20,
+        "product_per_desktop": 4,
+        "product_per_mobile": "2",
+        "image_radius": 0,
+        "image_ration": "square",
+        "use_custom_height": false,
+        "image_height_desktop": 400,
+        "image_height_mobile": 300,
+        "show_second": false,
+        "use_shadow": false,
+        "use_radius": false,
+        "card_padding_horizontal": 0,
+        "card_padding_vertical": 12,
+        "card_title_custom": true,
+        "card_title_font": "assistant_n4",
+        "card_title_size": 16,
+        "card_title_letter": 0.2,
+        "card_title_height": 110,
+        "heading": "MEILLEURES VENTES HOMMES",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "heading_size": 20,
+        "heading_letter": 0,
+        "heading_height": 100,
+        "heading_align": "left",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "assistant_n4",
+        "sub_heading_size": 0,
+        "sub_heading_letter": 0,
+        "sub_heading_height": 50,
+        "sub_heading_align": "center",
+        "invert_content": false,
+        "link": "",
+        "link_url": "",
+        "link_custom": false,
+        "link_font": "assistant_n4",
+        "link_size": 0,
+        "link_letter": 0,
+        "link_height": 50,
+        "link_position": false,
+        "link_mobile": false,
+        "card_price_from": "From",
+        "card_price_custom": false,
+        "card_price_font": "assistant_n4",
+        "card_price_size": 16,
+        "card_price_letter": 0,
+        "card_price_height": 100,
+        "card_price_mt": 12,
+        "arrow_size": 20,
+        "arrow_size_mobile": 20,
+        "arrow_hide_mobile": true,
+        "link_color": "#000000",
+        "link_hover_color": "#000000",
+        "link_arrow_color": "#000000",
+        "link_background_color": "#e6e6e6",
+        "link_background_hover_color": "#000000",
+        "card_content_bg_color": "#ffffff",
+        "card_title_color": "#000000",
+        "card_price_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#f2f2f2",
+        "arrow_bg_hover_color": "#f2f2f2",
+        "arrow_border_color": "#c4c4c4",
+        "arrow_border_hover_color": "#c4c4c4",
+        "progress_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 130,
+        "border_thickness": 0
+      }
+    },
+    "featured_collections_WdXFUm": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_zAjNi9": {
+          "type": "collection",
+          "settings": {
+            "collection": "homme",
+            "products_count": 4,
+            "title": "MEILLEURES VENTES HOMMES",
+            "link_url": "shopify://collections/jewellery",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_zAjNi9"
+      ],
+      "disabled": true,
+      "settings": {
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 6,
+        "horizontal_spacing_factor": 0.2,
+        "vertical_spacing_factor": 0.2,
+        "subheading": ""
+      }
+    },
+    "image_with_text_ggQkGT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XdYj3b": {
+          "type": "heading",
+          "settings": {
+            "text": "Povijest Maric Zagreb",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_9DramL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Godine 2018., u srcu zagrebačke vreve, sa žaljenjem smo primijetili da elegancija starog Zagreba polako nestaje. Odlučni da ponovno oživimo tu izgubljenu čaroliju, osnovali smo modni brend ‘Marić Zagreb’ – posvetu bezvremenskoj eleganciji.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XdYj3b",
+        "richtext_9DramL"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Foto_store.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_overlay_NzVeBF": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_VRTCeV": {
+          "type": "heading",
+          "settings": {
+            "text": "Povijest Atelier Dubois Paris",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_kBNpVw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>En 2018, au cœur de l'agitation parisienne, nous avons constaté avec regret que l'élégance de l'ancien Paris disparaissait peu à peu. Déterminés à redonner vie à cette splendeur perdue, nous avons fondé la marque de vêtements 'Atelier Dubois Paris', un hommage à l'élégance intemporelle.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VRTCeV",
+        "richtext_kBNpVw"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_size": "auto",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "aus_tp_slider_G8JJyr": {
+      "type": "aus-tp-slider",
+      "blocks": {
+        "richtext_MppAFU": {
+          "type": "richtext",
+          "settings": {
+            "rating": "5",
+            "verified": "Vérifié",
+            "review_title": "Bonne qualité et bon service",
+            "review_content": "<p>La qualité est bonne et c'est exactement la même chose que sur la photo. J'avais une question sur la taille de l'ensemble d'été que j'ai commandé et avec une réponse dans une heure, ils m'ont aidé à choisir la bonne taille.</p>",
+            "review_time": "28-02-2024",
+            "customer_name": "Charles S."
+          }
+        },
+        "richtext_BfWHJr": {
+          "type": "richtext",
+          "settings": {
+            "rating": "5",
+            "verified": "Vérifié",
+            "review_title": "Délai de livraison et produit",
+            "review_content": "<p>J'ai récemment commandé une robe chez Atelier Dubois. Le site web était facile à parcourir et la robe est arrivée dans les 8 jours. Elle correspondait parfaitement à la description et était à la bonne taille. Je suis très contente de mon achat et j'achèterai à nouveau ici !</p>",
+            "review_time": "03-04-2024",
+            "customer_name": "Juliette K."
+          }
+        },
+        "richtext_Mxgi8m": {
+          "type": "richtext",
+          "settings": {
+            "rating": "5",
+            "verified": "Vérifié",
+            "review_title": "Veste achetée",
+            "review_content": "<p>La qualité est bonne et la veste s'adapte parfaitement. La livraison a été rapide, et la veste est exactement comme sur les photos. Je suis très satisfaite et j'achèterai à nouveau chez eux !</p>",
+            "review_time": "17-09-2024",
+            "customer_name": "Gabriel K."
+          }
+        },
+        "richtext_t4UV6U": {
+          "type": "richtext",
+          "settings": {
+            "rating": "5",
+            "verified": "Vérifié",
+            "review_title": "Retour expérience",
+            "review_content": "<p>J'ai commandé un maillot de bain le 11 mai, mais malheureusement, il était trop petit, parce que je n'avais pas commandé la bonne taille, alors je l'ai renvoyé pour un échange. Dans les deux semaines qui ont suivi, j'ai reçu un maillot de bain de plus grande taille. Dans l'ensemble, bon service.</p>",
+            "review_time": "01-02-2024",
+            "customer_name": "Julien C."
+          }
+        },
+        "richtext_Pr3kKr": {
+          "type": "richtext",
+          "settings": {
+            "rating": "5",
+            "verified": "Vérifié",
+            "review_title": "Bon produit",
+            "review_content": "<p>Bon produit, exactement ce que je voulais.</p>",
+            "review_time": "08-10-2023",
+            "customer_name": "Lucie P."
+          }
+        }
+      },
+      "block_order": [
+        "richtext_MppAFU",
+        "richtext_BfWHJr",
+        "richtext_Mxgi8m",
+        "richtext_t4UV6U",
+        "richtext_Pr3kKr"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Excellent",
+        "content": "<p>Basé sur 2.137+ avis</p>"
+      }
+    },
+    "text_with_icons_aRCmtB": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_a6bTc3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Besplatna dostava",
+            "content": "<p>Nudimo besplatnu dostavu širom svijeta.</p>"
+          }
+        },
+        "item_JJhzVJ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Usluga za korisnike",
+            "content": "<p>Nudimo korisničku podršku 24/7. Uvijek nam možete postaviti pitanja, a naši će vam stručnjaci odgovoriti unutar 24 sata!</p>"
+          }
+        },
+        "item_tQXgTN": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Više od 2300 recenzija",
+            "content": "<p>Imamo više od 10 000 klijenata koji vjeruju Maric Zagreb, a preko 2300 ih je ostavilo recenziju, s prosječnom ocjenom 4,7/5.</p>"
+          }
+        },
+        "item_Wkcwn3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Sigurno plaćanje",
+            "content": "<p>Svako plaćanje s Maric Zagreb je 100% sigurno i uz jamstvo sigurnosti.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_a6bTc3",
+        "item_JJhzVJ",
+        "item_tQXgTN",
+        "item_Wkcwn3"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "ef6426a4-9272-40aa-a31d-bcfce357685f",
+    "slideshow",
+    "rich_text_QBDrJ7",
+    "collection_list_Fmg4e9",
+    "574a6061-7371-48cf-b25b-1b63bd85cb70",
+    "ss_featured_collection_B9bw7R",
+    "168769821157a82f82",
+    "rich_text_C4ReEG",
+    "featured_collections_YbT3Ez",
+    "testimonials_LyG8tn",
+    "ss_featured_collection_9TEVB9",
+    "featured_collections_WdXFUm",
+    "image_with_text_ggQkGT",
+    "image_with_text_overlay_NzVeBF",
+    "aus_tp_slider_G8JJyr",
+    "text_with_icons_aRCmtB"
+  ]
+}
