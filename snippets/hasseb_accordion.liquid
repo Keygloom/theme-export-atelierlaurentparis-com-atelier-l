@@ -1,0 +1,90 @@
+{%- comment -%}
+----------------------------------------------------------------------------------------------------------------------
+ACCORDION COMPONENT
+----------------------------------------------------------------------------------------------------------------------
+
+This component is used to create an accordion (also called as collapsible). It internally uses the "details" HTML
+tag so that it can also be used without any JavaScript.
+
+********************************************
+Supported parameters
+********************************************
+
+* title: the title to use for the toggle button
+* content: the hidden content inside the accordion
+* icon: an optional icon name outputted before the title
+* custom_icon: an optional custom icon file outputted before the title
+* open: if set to true the accordion is open by default
+* prose_content: if set to true, the content is considered as prose and the associated class is added
+* show_title_as_text: if set to true the title is shown as text instead of using heading style
+* show_arrow: if set to true, the accordion will show an arrow instead of the standard + icon
+* size: can be "sm" or "lg" (if none is passed, the small size is used)
+* is: override the default custom element name
+* bleed: if set to true, the accordion will bleed on mobile
+* block: an optional block to output theme editor attributes
+{%- endcomment -%}
+<style>
+@media screen and (pointer: fine) {
+    .accordion:hover .circle-chevron.group-hover\:colors:not([disabled]), .circle-chevron.hover\:colors:hover:not([disabled]) {
+        background: #1a1a1a;
+        color: #fff;
+    }
+}
+.circle-chevron {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 9999px;
+    background: #1a1a1a1a;
+    flex-shrink: 0;
+    place-items: center;
+    transition: all .2s ease-in-out;
+    display: grid;
+}
+  .group[aria-expanded=true] .circle-chevron.group-expanded\:rotate {
+    transform: rotate(calc(1* 180deg));
+}
+  .faq__content {
+  background: #1a1a1a0d;
+  margin: 0 20px;
+  padding: 10px 20px 0 20px;
+  border-radius: 10px;
+}
+.accordion:not(:last-child) {
+  border-bottom: 1px solid #8080804d;
+}
+.accordion {
+  border-bottom: 0;
+}
+</style>
+<details class="accordion {% if size %}accordion--{{ size }}{% endif %} group {% if bleed %}bleed sm:unbleed{% endif %}" is="{{ is | default: 'accordion-disclosure' }}" {% if open %}open aria-expanded="true"{% else %}aria-expanded="false"{% endif %} {{ block.shopify_attributes }}>
+  <summary>
+    {%- comment -%}iOS 14 does not support flex on the summary itself, so we have to use this extra div{%- endcomment -%}
+    <span class="accordion__toggle {% if show_title_as_text %}text-lg{% else %}h6{% endif %}">
+      {%- if custom_icon != blank or icon != 'none' -%}
+        <span class="text-with-icon gap-4">
+          {%- if custom_icon != blank -%}
+            {{- custom_icon | image_url: width: custom_icon.width | image_tag: loading: 'lazy', sizes: '16px', widths: '16,32,48', class: 'constrained-image', style: '--image-max-width: 16px' -}}
+          {%- else -%}
+            {%- render 'icon' with icon, width: 16 -%}
+          {%- endif -%}
+
+          {{- title -}}
+        </span>
+      {%- else -%}
+        <span>{{ title }}</span>
+      {%- endif -%}
+
+      {%- if show_arrow -%}
+        {%- render 'icon' with 'chevron-down', class: 'group-expanded:rotate' -%}
+      {%- else -%}
+       <span class="circle-chevron group-hover:colors group-expanded:colors group-expanded:rotate"><svg role="presentation" focusable="false" width="8" height="6" class="icon icon-chevron-bottom-small" viewBox="0 0 8 6">
+        <path d="m1 1.5 3 3 3-3" fill="none" stroke="currentColor" stroke-width="1.5"></path>
+      </svg></span>
+      {%- endif -%}
+    </span>
+  </summary>
+
+  <div class="accordion__content {% if prose_content %}prose{% endif %}">
+    {{- content -}}
+  </div>
+</details>

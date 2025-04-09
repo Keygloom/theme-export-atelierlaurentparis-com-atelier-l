@@ -1,0 +1,203 @@
+<div class="product-info__liquid" bis_skin_checked="1">
+            <style>
+  @keyframes inventory-pulse {
+      0% { opacity: 0.5; }
+      100% { transform: scale(2.5); opacity: 0; }
+  }
+
+  /* Styles for the stock availability icon */
+  span.green_icon {
+      display: inline-block;
+      position: relative;
+      height: 25px;
+      width: 25px;
+  }
+
+  .icon--inventory:before {
+      animation: inventory-pulse 2s linear infinite;
+  }
+
+  .icon--inventory:after,
+  .icon--inventory:before {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      content: "";
+      margin: 8px;
+  }
+
+  /* Flexbox layout for stock information */
+  .aus_stock {
+      display: flex;
+      align-items: center;
+      margin-top: 10px;
+  }
+
+  .aus_stock span#stock-info {
+      margin-left: 10px; /* Space between the icon and the text */
+  }
+
+  .stock-info.red { color: #ffa100; }
+  .stock-info.orange { color: #F5AF29; }
+  .stock-info.green { color: #54c63a; }
+
+  .icon--inventory.red:before,
+  .icon--inventory.red:after { background: #ffa100; }
+
+  .icon--inventory.orange:before,
+  .icon--inventory.orange:after { background: #F5AF29; }
+
+  .icon--inventory.green:before,
+  .icon--inventory.green:after { background: #54c63a; }
+
+  /* Additional styling for other sections */
+  .aus-price span.badge.pricebadge-sale.color-accent-1 {
+      margin-top: 5px;
+  }
+
+  .product-singleprice--compare-at.text-muted.text-strike .money {
+      font-size: 28px;
+      display: inline-grid;
+  }
+
+  .product-single__price.on-sale.text-sale .money {
+      font-size: 38px;
+  }
+
+  /* Adjustments for promo checkmarks */
+  .c.promoCheckmarks ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+  }
+
+  .aus_stock {
+      margin-left: -5px;
+  }
+</style>
+
+<div class="aus_p_container" bis_skin_checked="1">
+  <div class="aus_bullets" bis_skin_checked="1">
+    <div class="c promoCheckmarks" bis_skin_checked="1">
+      <ul>
+        <li>
+          <div class="aus_stock" bis_skin_checked="1">
+            <span class="green_icon icon--inventory red"></span>
+            <span id="stock-info" class="stock-info red">{{ block.settings.dot_text }}</span>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+  $(document).ready(function() {
+    function updateStockInfo() {
+      var variantId = $('[name="id"]').val();
+      var stockQuantity = Shopify.inventory[variantId] !== undefined ? Shopify.inventory[variantId] : 0;
+      var stockInfo = "";
+      var stockClass = "";
+
+      if (stockQuantity >= 1 && stockQuantity <= 6) {
+        stockInfo = "Stock limité - plus que " + stockQuantity + " pièces disponibles";
+        stockClass = "red";
+      } else if (stockQuantity > 6 && stockQuantity <= 14) {
+        stockInfo = "Stock limité - plus que " + stockQuantity + " pièces disponibles";
+        stockClass = "orange";
+      } else if (stockQuantity > 14 || stockQuantity < 1) {
+        stockInfo = "En stock";
+        stockClass = "green";
+      }
+
+      $('#stock-info').text(stockInfo).removeClass("red orange green").addClass(stockClass);
+      $('.green_icon').removeClass("red orange green").addClass(stockClass);
+    }
+
+    Shopify.inventory = {
+      
+      49219958243651: 3,
+      
+      49219958276419: 2,
+      
+      49219958309187: 8,
+      
+      49219958341955: 6,
+      
+      49219958374723: 5,
+      
+      49219958407491: 2,
+      
+      49219958440259: -1,
+      
+      49219958473027: 3,
+      
+      49219958505795: 2,
+      
+      49219958538563: 2,
+      
+      49219958571331: 8,
+      
+      49219958604099: 1,
+      
+      49219958636867: 4,
+      
+      49219958669635: -3,
+      
+      49219958702403: 6,
+      
+      49219958735171: 1,
+      
+      49219958767939: 1,
+      
+      49219958800707: 1,
+      
+      49219958833475: 2,
+      
+      49219958866243: 1,
+      
+      49219958899011: 8,
+      
+      49219958931779: 4,
+      
+      49219958964547: 0,
+      
+      49219958997315: 9,
+      
+      49219959030083: 2,
+      
+      49219959062851: 7,
+      
+      49219959095619: 0,
+      
+      49219959128387: 2,
+      
+      49219959161155: 3,
+      
+      49219959193923: 4,
+      
+      49219959226691: 6,
+      
+      49219959259459: 8,
+      
+      49219959292227: 4,
+      
+      49219959324995: 10,
+      
+      49219959357763: 4,
+      
+      49219959390531: 4
+      
+    };
+
+    updateStockInfo();
+
+    $('[name="id"]').change(function() {
+      updateStockInfo();
+    });
+  });
+</script>
+          </div>

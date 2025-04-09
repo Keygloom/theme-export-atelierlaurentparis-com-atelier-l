@@ -1,0 +1,30 @@
+.mcart_total{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 17px;
+}
+.mcheckout-btn{
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* Mobile-specific styles */
+@media (max-width: 767px) {
+    .button-group.mcart-drawer-buttons button{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .mcheckout-btn {
+        font-size: 12px; /* Adjust font size for mobile */
+        gap: 10px;       /* Adjust gap for mobile */
+        padding: 0px;  /* Add padding for better touch interaction */
+        display: flex;
+        font-weight: bold;
+        width: 100%;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,104 @@
+<style>
+  .reviews_stars {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+  }
+
+  .reviews_stars .stars {
+    display: flex;
+    gap: 4px;
+    max-width: 90px;
+  }
+
+  .reviews_stars .ratings span {
+    white-space: nowrap;  
+  }
+  
+</style>
+
+<a href="#aus-tp-slider" class="reviews_stars">
+  <div class="stars">
+    <svg class="star-svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M32 0H0V32H32V0Z" fill="#E3E3E3"/>
+      <path class="star-indicator" d="M32 0H0V32H32V0Z" fill="#00B67A"/>
+      <mask id="mask0_19_10" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="5" width="22" height="22">
+        <path d="M27 5H5V27H27V5Z" fill="white"/>
+      </mask>
+      <g mask="url(#mask0_19_10)">
+        <path d="M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z" fill="white"/>
+      </g>
+    </svg>
+    <svg class="star-svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M32 0H0V32H32V0Z" fill="#E3E3E3"/>
+      <path class="star-indicator" d="M32 0H0V32H32V0Z" fill="#00B67A"/>
+      <mask id="mask0_19_10" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="5" width="22" height="22">
+        <path d="M27 5H5V27H27V5Z" fill="white"/>
+      </mask>
+      <g mask="url(#mask0_19_10)">
+        <path d="M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z" fill="white"/>
+      </g>
+    </svg>
+    <svg class="star-svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M32 0H0V32H32V0Z" fill="#E3E3E3"/>
+      <path class="star-indicator" d="M32 0H0V32H32V0Z" fill="#00B67A"/>
+      <mask id="mask0_19_10" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="5" width="22" height="22">
+        <path d="M27 5H5V27H27V5Z" fill="white"/>
+      </mask>
+      <g mask="url(#mask0_19_10)">
+        <path d="M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z" fill="white"/>
+      </g>
+    </svg>
+    <svg class="star-svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M32 0H0V32H32V0Z" fill="#E3E3E3"/>
+      <path class="star-indicator" d="M32 0H0V32H32V0Z" fill="#00B67A"/>
+      <mask id="mask0_19_10" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="5" width="22" height="22">
+        <path d="M27 5H5V27H27V5Z" fill="white"/>
+      </mask>
+      <g mask="url(#mask0_19_10)">
+        <path d="M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z" fill="white"/>
+      </g>
+    </svg>
+    <svg class="star-svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M32 0H0V32H32V0Z" fill="#E3E3E3"/>
+      <path class="star-indicator" d="M32 0H0V32H32V0Z" fill="#00B67A"/>
+      <mask id="mask0_19_10" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="5" width="22" height="22">
+        <path d="M27 5H5V27H27V5Z" fill="white"/>
+      </mask>
+      <g mask="url(#mask0_19_10)">
+        <path d="M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z" fill="white"/>
+      </g>
+    </svg>
+  </div>
+  <div class="ratings">
+    <span>{{ block.settings.tp_rating }} | {{ block.settings.tp_reviews }} {{ block.settings.review_text }}</span>
+  </div>
+</a>
+
+<script>
+  const stars = document.querySelectorAll('.star-svg');
+  let rating = {{ block.settings.tp_rating }};
+  let remainder = 0;
+  
+  if(rating % 1 !== 0) {
+    remainder = 1.0 - (rating % 1);
+    rating = Math.floor(rating)
+  }
+
+  if(rating < 5) {
+    stars.forEach((star, index) => {
+      if(index >= rating) {
+        const starWidth = star.width.baseVal.value;
+        const starIndicator = star.querySelector('.star-indicator');
+        
+        if(index === rating && remainder > 0) {
+          starIndicator.style.transform = `translateX(${(starWidth * remainder) * -1}px)`;
+        } else {
+          starIndicator.style.transform = `translateX(${starWidth * -1}px)`;
+        }
+      }
+    })
+  }
+</script>
