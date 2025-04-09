@@ -491,6 +491,9 @@
       },
       "contact": {
         "first_name_label": "Prénom"
+      },
+      "thank_you": {
+        "contact_us": "Kontaktirajte nas"
       }
     }
   }
