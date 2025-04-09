@@ -52,7 +52,8 @@
             "bullet_text_color_1": "#000000",
             "bullet_text_2": "30-dnevno jamstvo povrata",
             "bullet_text_color_2": "#000000",
-            "bullet_text_3": "Hrvatska obiteljska tvrtka od 2014. godine",
+            "bullet_icon_3": "shopify://shop_images/Vlag_kroatie.webp",
+            "bullet_text_3": "Hrvatska obiteljska tvrtka od 2018. godine",
             "bullet_text_color_3": "#000000",
             "icon_size": 21,
             "bullet_font_size": 14
@@ -161,7 +162,7 @@
             "show_below_gallery": true,
             "icon": "none",
             "title": "KORISNIČKA PODRŠKA",
-            "content": "<p>U Malic Zagreb uvijek smo tu za vas. Možete nas kontaktirati u bilo koje doba dana i računati na naš predani tim korisničke podrške koji će vam pomoći odgovoriti na sva vaša pitanja i potrebe.<br/><br/>Koristite kontaktni obrazac ili pošaljite e-mail na <a>info@maliczagreb.com</a> kako biste nas kontaktirali.</p>",
+            "content": "<p>U Malic Zagreb uvijek smo tu za vas. Možete nas kontaktirati u bilo koje doba dana i računati na naš predani tim korisničke podrške koji će vam pomoći odgovoriti na sva vaša pitanja i potrebe.<br/><br/>Koristite kontaktni obrazac ili pošaljite e-mail na <a>info@mariczagreb.com</a> kako biste nas kontaktirali.</p>",
             "page": ""
           }
         }
