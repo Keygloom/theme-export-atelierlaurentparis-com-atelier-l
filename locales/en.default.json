@@ -339,45 +339,45 @@
   "cart": {
     "general": {
       "title": "Košarica",
-      "empty": "Votre panier est vide",
-      "continue_shopping": "Poursuivre les achats",
-      "weight": "Poids",
-      "subtotal": "Sous-total",
-      "total": "Total",
+      "empty": "Vaša košarica je prazna",
+      "continue_shopping": "Nastavi kupovinu",
+      "weight": "Težina",
+      "subtotal": "Međuzbroj",
+      "total": "Ukupno",
       "taxes_and_shipping_policy_at_checkout_html": " ",
       "taxes_included_but_shipping_at_checkout": " ",
       "taxes_included_and_shipping_policy_html": " ",
       "taxes_and_shipping_at_checkout": " ",
       "add_order_note": " ",
-      "edit_order_note": "Modifier la note de commande",
-      "order_note": "Note de commande",
-      "save_note": "Enregistrer la note",
-      "note_placeholder": "Comment pouvons-nous vous aider ?",
-      "view_cart": "Voir le panier",
-      "update_cart": "Mise à jour du panier",
+      "edit_order_note": "Uredi bilješku uz narudžbu",
+      "order_note": "Bilješka uz narudžbu",
+      "save_note": "Spremi bilješku",
+      "note_placeholder": "Kako vam možemo pomoći?",
+      "view_cart": "Pogledaj košaricu",
+      "update_cart": "Ažuriraj košaricu",
       "checkout": "ODJAVA",
-      "we_accept": "Nous acceptons"
+      "we_accept": "Prihvaćamo"
     },
     "order": {
-      "product": "Produit",
-      "total": "Total",
-      "quantity": "Quantité",
-      "remove": "Retirer"
+      "product": "Proizvod",
+      "total": "Ukupno",
+      "quantity": "Količina",
+      "remove": "Ukloni"
     },
     "free_shipping_bar": {
-      "limit_unreached_html": "Dépensez {{ remaining_amount }} plus et bénéficiez de la livraison gratuite !",
-      "limit_reached_html": "Vous pouvez bénéficier de la livraison gratuite."
+      "limit_unreached_html": "Potrošite još {{ remaining_amount }} i ostvarite besplatnu dostavu!",
+      "limit_reached_html": "Ostvarili ste pravo na besplatnu dostavu."
     },
     "shipping_estimator": {
-      "estimate_shipping": "Estimation des frais de port",
-      "country": "Pays",
-      "province": "Province",
-      "zip": "Code postal",
-      "estimate": "Estimation",
-      "no_results": "Désolé, nous n'expédions pas à votre adresse.",
-      "one_result": "Il n'y a qu'un seul tarif d'expédition pour votre adresse :",
-      "multiple_results": "Il existe plusieurs tarifs d'expédition en fonction de votre adresse :",
-      "error": "Une ou plusieurs erreurs se sont produites lors de l'extraction des tarifs d'expédition :"
+      "estimate_shipping": "Procjena troškova dostave",
+      "country": "Država",
+      "province": "Pokrajina",
+      "zip": "Poštanski broj",
+      "estimate": "Procjena",
+      "no_results": "Nažalost, ne dostavljamo na vašu adresu.",
+      "one_result": "Postoji samo jedna cijena dostave za vašu adresu:",
+      "multiple_results": "Dostupno je više cijena dostave za vašu adresu:",
+      "error": "Došlo je do jedne ili više pogrešaka prilikom dohvaćanja cijena dostave:"
     }
   },
   "404": {
