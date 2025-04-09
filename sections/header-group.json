@@ -1,1 +1,166 @@
-{"type":"header","name":"Header group","sections":{"ss_scrolling_announcement_bar_jbQWze":{"type":"ss-scrolling-announcement-bar","blocks":{"text_eQV8Vi":{"type":"text","settings":{"text":"100% JAMSTVO POVRATA"}},"text_DnFnCk":{"type":"text","disabled":true,"settings":{"text":"Commandé avant 23h00, expédié aujourd'hui"}},"text_KXXRzp":{"type":"text","settings":{"text":"BESPLATNA DOSTAVA"}},"text_48NxyP":{"type":"text","settings":{"text":"10000+ VJERUJE NAM"}},"text_AixWdQ":{"type":"text","disabled":true,"settings":{"text":"Commandé avant 23h00, expédié aujourd'hui"}}},"block_order":["text_eQV8Vi","text_DnFnCk","text_KXXRzp","text_48NxyP","text_AixWdQ"],"settings":{"insert_css_class_target":"","text_size":10,"ss_font_family":"montserrat_n7","link":"","animation_duration":124,"animation_direction":"left","pause_hover":false,"bg":"#000000","text_color":"#ffffff","hover_opacity":90,"padding_horizontal":0,"padding_vertical":1}},"announcement-bar":{"type":"announcement-bar","blocks":{"message-1":{"type":"message","settings":{"text":"<strong>Nos soldes d'été se terminent aujourd'hui ⏱️<\/strong>"}},"62df77d4-fe68-46d3-9d57-1cb9252c23c2":{"type":"message","settings":{"text":"<strong>Aujourd'hui, livraison gratuite ⛟<\/strong>"}}},"block_order":["message-1","62df77d4-fe68-46d3-9d57-1cb9252c23c2"],"disabled":true,"settings":{"enable_sticky":false,"autoplay":true,"cycle_speed":5,"desktop_font_size":11,"mobile_font_size":10,"background":"#000000","text_color":"#ffffff"}},"header":{"type":"header","blocks":{"mega_menu_iNiDbX":{"type":"mega_menu","settings":{"menu_item":"","images_position":"right","image_1_heading":"","image_1_text":"","image_1_link":"","image_2_heading":"","image_2_text":"","image_2_link":""}}},"block_order":["mega_menu_iNiDbX"],"settings":{"enable_sticky":true,"show_separation_border":true,"reduce_padding":true,"logo":"shopify:\/\/shop_images\/Logo_store_96e7d4c3-ecbe-4a84-8bd1-fba5d00faea6.png","logo_max_width":235,"logo_mobile_max_width":170,"menu":"main-menu","sidebar_menu":"","menu_open_trigger":"hover","enable_search":true,"sidebar_text_font":"body","sidebar_show_dividers":true,"layout":"logo_center_navigation_below","show_icons":true,"show_country_selector":false,"show_country_name":false,"show_country_flag":false,"show_locale_selector":false,"transparent_header_text_color":"#ffffff"}},"0863fba4-4f08-48da-b438-973d75fe7298":{"type":"countdown-condensed","disabled":true,"settings":{"content":"<strong>NUEVOS LANZAMIENTOS<\/strong>","link_text":"","link_url":"","expiration_date":"2023-08-17 12:00","expiration_behavior":"leave","desktop_justification":"center","background":"#8d0303","text_color":"#ffffff"}}},"order":["ss_scrolling_announcement_bar_jbQWze","announcement-bar","header","0863fba4-4f08-48da-b438-973d75fe7298"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "ss_scrolling_announcement_bar_jbQWze": {
+      "type": "ss-scrolling-announcement-bar",
+      "blocks": {
+        "text_eQV8Vi": {
+          "type": "text",
+          "settings": {
+            "text": "100% JAMSTVO POVRATA"
+          }
+        },
+        "text_DnFnCk": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Commandé avant 23h00, expédié aujourd'hui"
+          }
+        },
+        "text_KXXRzp": {
+          "type": "text",
+          "settings": {
+            "text": "BESPLATNA DOSTAVA"
+          }
+        },
+        "text_48NxyP": {
+          "type": "text",
+          "settings": {
+            "text": "10000+ VJERUJE NAM"
+          }
+        },
+        "text_AixWdQ": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Commandé avant 23h00, expédié aujourd'hui"
+          }
+        }
+      },
+      "block_order": [
+        "text_eQV8Vi",
+        "text_DnFnCk",
+        "text_KXXRzp",
+        "text_48NxyP",
+        "text_AixWdQ"
+      ],
+      "settings": {
+        "insert_css_class_target": "",
+        "text_size": 10,
+        "ss_font_family": "montserrat_n7",
+        "link": "",
+        "animation_duration": 124,
+        "animation_direction": "left",
+        "pause_hover": false,
+        "bg": "#000000",
+        "text_color": "#ffffff",
+        "hover_opacity": 90,
+        "padding_horizontal": 0,
+        "padding_vertical": 1
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "<strong>Nos soldes d'été se terminent aujourd'hui ⏱️</strong>"
+          }
+        },
+        "62df77d4-fe68-46d3-9d57-1cb9252c23c2": {
+          "type": "message",
+          "settings": {
+            "text": "<strong>Aujourd'hui, livraison gratuite ⛟</strong>"
+          }
+        }
+      },
+      "block_order": [
+        "message-1",
+        "62df77d4-fe68-46d3-9d57-1cb9252c23c2"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10,
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_iNiDbX": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_iNiDbX"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "show_separation_border": true,
+        "reduce_padding": true,
+        "logo": "shopify://shop_images/Logo_store_e9e74669-419d-439b-962f-05fdbbaaaf5d.png",
+        "logo_max_width": 235,
+        "logo_mobile_max_width": 170,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "menu_open_trigger": "hover",
+        "enable_search": true,
+        "sidebar_text_font": "body",
+        "sidebar_show_dividers": true,
+        "layout": "logo_center_navigation_below",
+        "show_icons": true,
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": false,
+        "show_locale_selector": false,
+        "transparent_header_text_color": "#ffffff"
+      }
+    },
+    "0863fba4-4f08-48da-b438-973d75fe7298": {
+      "type": "countdown-condensed",
+      "disabled": true,
+      "settings": {
+        "content": "<strong>NUEVOS LANZAMIENTOS</strong>",
+        "link_text": "",
+        "link_url": "",
+        "expiration_date": "2023-08-17 12:00",
+        "expiration_behavior": "leave",
+        "desktop_justification": "center",
+        "background": "#8d0303",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "ss_scrolling_announcement_bar_jbQWze",
+    "announcement-bar",
+    "header",
+    "0863fba4-4f08-48da-b438-973d75fe7298"
+  ]
+}
