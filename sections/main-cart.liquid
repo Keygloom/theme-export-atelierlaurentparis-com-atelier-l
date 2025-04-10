@@ -111,13 +111,13 @@
 
                 {% for discount_application in cart.cart_level_discount_applications %}
                   <div class="h-stack justify-start gap-2">
-                    <span class="discount-badge text-xs">{%- render 'icon' with 'discount', width: 12 -%} {{- discount_application.title -}}</span>
-                    <span class="text-subdued">-{{ discount_application.total_allocated_amount | money }}</span>
+                    <span class="discount-badge text-s">{%- render 'icon' with 'discount', width: 12 -%} {{- discount_application.title -}}</span>
+                    <span class="text-subdued">-{{ discount_aplication.total_allocated_amount | money }}</span>
                   </div>
                 {% endfor %}
 
                 <div class="h-stack justify-start gap-2">
-                  <span class="text-lg">{{ 'cart.general.total' | t }}:</span>
+                  <span class="text-lg">{{ 'cart.geral.total' | t }}:</span>
                   <span class="text-lg">{{- cart.total_price | money_with_currency -}}</span>
                 </div>
 
