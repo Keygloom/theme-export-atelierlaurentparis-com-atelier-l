@@ -137,7 +137,7 @@ Supported variables
 </sale-price>
 {%- if variant.compare_at_price > variant.price -%}
   {% assign discount_percentage = variant.compare_at_price | minus: variant.price | times: 100 | divided_by: variant.compare_at_price | round %}
-  <span class="sale-badge">Save {{ discount_percentage }}%</span>
+  <span class="sale-badge">Uštedite {{ discount_percentage }}%</span>
 {%- endif -%}
 </div>  
           {%- endif -%}
