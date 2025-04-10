@@ -57,7 +57,7 @@
 
                     <td class="text-end">
                       {%- if settings.currency_code_enabled -%}
-                        {{- line_item.final_line_price | money_with_currency -}}
+                        {{- line_item.final_line_price -}}
                       {%- else -%}
                         {{- line_item.final_line_price | money -}}
                       {%- endif -%}
